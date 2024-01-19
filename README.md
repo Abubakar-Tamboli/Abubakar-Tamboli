@@ -1,5 +1,5 @@
 
-![Project Image](https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-82651.jpg?size=1000&ext=jpg)
+![Project Image](https://images.pexels.com/photos/12198537/pexels-photo-12198537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
