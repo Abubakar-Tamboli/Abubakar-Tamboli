@@ -1,6 +1,5 @@
-<div style="background: #3498db; padding: 20px; border-radius: 8px; text-align: center;">
-  
-<div style="background: linear-gradient(to right, #1abc9c, #3498db); padding: 20px; border-radius: 8px;">
+
+![Project Image](https://images.unsplash.com/photo-1454117096348-e4abbeba002c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
