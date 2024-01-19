@@ -1,4 +1,7 @@
 
+![Profile Banner](https://via.placeholder.com/1200x300/3498db/FFFFFF?text=Your+Name)
+
+
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
