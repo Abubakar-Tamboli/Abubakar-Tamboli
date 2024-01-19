@@ -1,5 +1,5 @@
 
-![Profile Banner](https://via.placeholder.com/1200x300/gradient/1abc9c,3498db?text=Abubakar)
+<div style="background: linear-gradient(to right, #1abc9c, #3498db); padding: 20px; border-radius: 8px;">
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
