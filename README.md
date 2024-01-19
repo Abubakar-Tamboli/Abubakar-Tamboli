@@ -1,5 +1,5 @@
 
-![Project Image](https://img.freepik.com/free-vector/decorative-halftone-design-dark-blue-banner-template-vector_1055-10722.jpg?size=626&ext=jpg&ga=GA1.1.754603099.1699526766&semt=ais)
+![Project Image](https://img.freepik.com/free-vector/decorative-halftone-design-dark-blue-banner-template-vector_1055-10722.jpg?size=628&ext=jpg&ga=GA1.1.754603099.1699526766&semt=ais)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
