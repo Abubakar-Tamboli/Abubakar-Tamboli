@@ -1,5 +1,5 @@
 
-![Project Image](https://img.freepik.com/premium-vector/abstract-geometric-background-with-copy-space_1302-27451.jpg?size=626&ext=jpg&ga=GA1.1.754603099.1699526766&semt=ais)
+![Project Image](https://www.freepik.com/premium-vector/blue-green-tiffany-blue-seafoam-green-turquoise-gradient-wallpaper-background-vector-illustration_19178216.htm#fromView=search&term=background+banner&track=ais&regularType=vector&page=3&position=6&uuid=43d9436e-744c-4e67-9d14-c7048b2976fe)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
