@@ -1,5 +1,5 @@
 
-![Profile Banner](https://via.placeholder.com/1200x300/1abc9c/3498db?text=Abubakar)
+![Profile Banner](https://via.placeholder.com/1200x300/gradient/1abc9c,3498db?text=Abubakar)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
