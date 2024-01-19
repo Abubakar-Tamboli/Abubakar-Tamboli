@@ -1,7 +1,5 @@
 
-![Project Image](https://images.unsplash.com/photo-1454117096348-e4abbeba002c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D)
-
-![Project Image](https://images.unsplash.com/photo-1454117096348-e4abbeba002c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D)
+![Project Image](https://img.freepik.com/free-photo/psychedelic-paper-shapes-with-copy-space_23-2149378246.jpg?w=1060&t=st=1705686177~exp=1705686777~hmac=1aeba6b0b9bb1fd34bbac8b5cae08fcd964208937323bf04de311de8678d5c1c)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
