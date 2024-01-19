@@ -1,6 +1,15 @@
 ```markdown
 ![Gradient](https://example.com/gradient.png)
 
+```markdown
+   _____ _           _____                     
+  / ____(_)         |  __ \                    
+ | |     _  __ _ ___| |__) |__ _ __   ___  ___ 
+ | |    | |/ _` / __|  _  // _` '_ \ / _ \/ __|
+ | |____| | (_| \__ \ | \ \ (_| | | |  __/\__ \
+  \_____|_|\__,_|___/_|  \_\__,_|_|
+
+
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
