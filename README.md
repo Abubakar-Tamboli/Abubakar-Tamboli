@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abutamboli313@gmail.com**
 
-- ⚡ Fun fact **Aayen!**
+- ⚡ Fun fact **The heart of a shrimp is located in its head. Weird, yet kind of cool.!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
