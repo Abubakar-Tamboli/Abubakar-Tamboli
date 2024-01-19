@@ -1,5 +1,5 @@
 
-![Project Image](https://img.freepik.com/free-photo/psychedelic-paper-shapes-with-copy-space_23-2149378246.jpg?w=1060&t=st=1705686177~exp=1705686777~hmac=1aeba6b0b9bb1fd34bbac8b5cae08fcd964208937323bf04de311de8678d5c1c)
+![Project Image](https://img.freepik.com/free-vector/decorative-halftone-design-dark-blue-banner-template-vector_1055-10722.jpg?size=626&ext=jpg&ga=GA1.1.754603099.1699526766&semt=ais)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
