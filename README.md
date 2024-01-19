@@ -1,5 +1,5 @@
 
-![Project Image](https://images.pexels.com/photos/12198537/pexels-photo-12198537.jpeg?auto=compress&cs=tinysrgb&w=1260&h=650&dpr=1)
+![Project Image](https://images.pexels.com/photos/12198537/pexels-photo-12198537.jpeg?auto=compress&cs=tinysrgb&w=2260&h=750&dpr=1)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
