@@ -1,4 +1,5 @@
-
+<div style="background: #3498db; padding: 20px; border-radius: 8px; text-align: center;">
+  
 <div style="background: linear-gradient(to right, #1abc9c, #3498db); padding: 20px; border-radius: 8px;">
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
