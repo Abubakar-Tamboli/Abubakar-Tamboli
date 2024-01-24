@@ -1,5 +1,4 @@
-
-![Project Image](https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-82651.jpg?size=1000&ext=jpg)
+[![MasterHead](https://github.com/git-salmanshaikh/git-salmanshaikh/blob/main/Black%20Technology%20LinkedIn%20Banner.png)](https://abubakar-tamboli.github.io/Fylo-landing-page/)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
