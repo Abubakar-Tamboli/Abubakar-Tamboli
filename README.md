@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/git-salmanshaikh/git-salmanshaikh/blob/main/Black%20Technology%20LinkedIn%20Banner.png)](https://abubakar-tamboli.github.io/Fylo-landing-page/)
+[![MasterHead](https://github.com/Abubakar-Tamboli/Abubakar-Tamboli/blob/main/Blue%20%26%20Teal%20Modern%20Personal%20LinkedIn%20Banner.png)](https://abubakar-tamboli.github.io/Fylo-landing-page/)
 
 <h1 align="center">Hi 👋, I'm Abubakar Tamboli</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
